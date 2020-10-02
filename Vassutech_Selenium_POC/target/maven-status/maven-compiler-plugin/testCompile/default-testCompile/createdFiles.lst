@@ -1,0 +1,10 @@
+Com\nopcommerce\Configurations\ReadConfigFile.class
+Com\nopcommerce\GenericMethods\GenericMethods.class
+Com\nopcommerce\Objectrepository\RegistrationPage_OR.class
+Com\nopcommerce\ApplicationModule\RegistrationPage.class
+Com\nopcommerce\commontestannotations\CommonTestAnnotations.class
+Com\nopcommerce\Objectrepository\HomePage_OR.class
+Com\nopcommerce\testData\ReadJsonFile.class
+Com\nopcommerce\fakerdata\FakerData.class
+Com\nopcommerce\ApplicationModule\HomePage.class
+Com\nopcommerce\testCases\TC_01.class

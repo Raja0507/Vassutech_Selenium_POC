@@ -1,0 +1,23 @@
+{
+  "TC_02": {
+    "First_Name": "Rajashekar",
+    "Last_name": "Gajji",
+    "Company": "Vassutech",
+    "Pincode": "506302"
+  },
+
+  "TC_01": {
+    "Gender": "Male",
+    "First_Name": "Raja",
+    "Last_name": "Gajji",
+    "DateofBirthDay": 5,
+    "DateofBirthMonth": "July",
+    "DateofBirthYear": 1994,
+    "Email": "anu.gajji@gmail.com",
+    "Company_name":"Vassutech",
+    "Password": "amma@123",
+    "ConfirmPassword": "amma@123"
+
+  }
+
+}
